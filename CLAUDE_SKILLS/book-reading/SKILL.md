@@ -1,6 +1,6 @@
 ---
 name: book-reading
-description: Nightly book reading session - discuss chapters, capture learnings, and maintain a running book summary in Obsidian
+description: Book reading session - discuss chapters, capture learnings, and maintain a running book summary in Obsidian
 ---
 
 # Book Reading Session
