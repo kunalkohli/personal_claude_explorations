@@ -80,9 +80,9 @@ What tasks do you have for [Project 1]?
 If a task seems too large (multi-day, vague), suggest breaking it down:
 ```
 "Ship inference pipeline" seems broad. Want to break it down?
-- Get data design PR approved (#35897)
+- Get data design PR approved (#123)
 - Address review feedback
-- Ship base models PR (#36167)
+- Ship base models PR (#456)
 
 Or keep as single task?
 ```
